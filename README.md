@@ -16,4 +16,5 @@ The classes
 # 2. 3Frames_yolov8.ipynb
 -> In this script the data was trained with Yolov8m
 
-Due to less number of images the model trained was not upto the mark. I suggest to use YOLOV8m model to use for prediction to get better results
+Due to less number of images the model trained was not upto the mark. I suggest to use YOLOV8m model to use for prediction to get better results.
+The predicted images from YOLOV8m were attached to this repo.
